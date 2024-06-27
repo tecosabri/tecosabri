@@ -1,10 +1,11 @@
-<div align="center">
-<img src="https://tecosabri.github.io/images/profile" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Isma, a passionate full-stack iOS developer with a love for building innovative mobile experiences.</div>  
   
+<div align="center">
+<img src="images/profile.png" align="center" style="width: 100%" />
+</div>  
+  
+
 
 - 🔭 I’m currently working on DespensifyApp   
   
